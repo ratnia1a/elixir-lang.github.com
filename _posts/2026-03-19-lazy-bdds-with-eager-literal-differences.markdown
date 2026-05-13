@@ -337,7 +337,7 @@ Then we distribute the second `and` and, after replacing `a1 and a2` by
 ```
 
 At this point, I thought no further simplifications were possible. That's
-when I reached to Claude Opus 4.6 to explore alternative variations and it
+when I reached to a coding agent to explore alternative variations and it
 suggested the following "obvious-only-in-hindsight" simplication.
 We know that `a1 = a_diff or a_int`, so let's slot that in:
 
